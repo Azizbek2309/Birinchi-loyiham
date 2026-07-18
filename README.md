@@ -1,7 +1,7 @@
-<h1>Birinchi-loyham</h1>
+<h1 style="color: red; font-weight: bold;">Birinchi-loyham</h1>
 <br>
 <hr>
-<p>Bu mening eng birinchi loyiham.</p>
+<p style="color: yellow;">Bu mening eng birinchi loyiham.</p>
 <br>
 <hr>
-<p>Mana buni boshing --></p>
+<p style="color: pink;">Mana buni boshing --></p>
